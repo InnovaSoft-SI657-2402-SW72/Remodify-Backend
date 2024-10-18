@@ -8,8 +8,8 @@
         <version>3.2.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.metasoft</groupId>
-    <artifactId>restyle</artifactId>
+    <groupId>com.innovasoft</groupId>
+    <artifactId>remodify</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>restyle</name>
     <description>A backend service for providing APIs to a pre-existing frontend application, utilizing Spring Boot and Java.</description>
