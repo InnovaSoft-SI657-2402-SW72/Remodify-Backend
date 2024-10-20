@@ -1,5 +1,5 @@
-## Restyle Backend Platform
-Restyle backend platform, desarrollado con Spring Boot y Java, 
+## Remodify Backend Platform
+Remodify backend platform, desarrollado con Spring Boot y Java, 
 simplifica la creación de endpoints RESTful para la gestión
 eficiente de datos y su integración fluida con aplicación frontend.
 
@@ -16,4 +16,4 @@ eficiente de datos y su integración fluida con aplicación frontend.
 - Spring Boot
 - Spring Data JPA
 
-&copy; 2024 [Restyle](https://sw53-metasoft.github.io/ReStyle-Landing-Page/)
+&copy; 2024 [Remodify]
